@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://github.com/pycrafted/pycrafted.github.io/raw/main/assets/banner.png" alt="Pycrafted Banner" width="800"/>
   
   # 🚀 Abdoulaye LAH
   
