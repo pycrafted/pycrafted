@@ -89,7 +89,6 @@ I'm a **Full-Stack Developer** and **Master's student** in Software Engineering 
 
 ### 🏥 [MediConnect](https://github.com/pycrafted/MediConnect)
 <div align="center">
-  <img src="https://github.com/pycrafted/MediConnect/workflows/CI/CD%20Pipeline/badge.svg" alt="CI/CD"/>
   <img src="https://img.shields.io/badge/Status-Active-green?style=for-the-badge" alt="Active"/>
   <img src="https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge" alt="MIT License"/>
 </div>
