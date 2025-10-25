@@ -54,40 +54,6 @@ I'm a **Full-Stack Developer** and **Master's student** in Software Engineering 
 
 ---
 
-## 🌟 Featured Projects
-
-### 🔒 Telecom Network Simulation Tool *(Private Project)*
-<div align="center">
-  <img src="https://img.shields.io/badge/Status-Private-red?style=for-the-badge" alt="Private"/>
-  <img src="https://img.shields.io/badge/Type-Web%20Application-blue?style=for-the-badge" alt="Web App"/>
-</div>
-
-> **Advanced web application for GSM, UMTS, radio, and optical network dimensioning and simulation**
-
-**🎯 Key Features:**
-- 📡 **GSM/UMTS Dimensioning**: Coverage, capacity, and QoS analysis
-- 🌐 **Radio Simulation**: 3D obstacle visualization with Fresnel zones
-- 🔦 **Optical Simulation**: Loss analysis and splicing optimization
-- 📊 **Interactive 3D Visualization**: Real-time network topology display
-- 📱 **Responsive Design**: Mobile-friendly interface
-
-**🛠️ Technologies:**
-- Frontend: React, TypeScript, Three.js, Chart.js, Tailwind CSS
-- Backend: Node.js, Express
-- Testing: Jest, GitHub Actions
-- Documentation: JSDoc
-
-**💡 Highlights:**
-- Modular architecture with comprehensive unit tests
-- CI/CD pipeline with automated deployment
-- Extensive documentation and API reference
-- Performance optimized for large-scale simulations
-
-> 📧 **Contact me for a demo or detailed presentation**
-
-
----
-
 ## 🎨 My Development Approach
 
 <div align="center">
