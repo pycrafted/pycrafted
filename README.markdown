@@ -17,7 +17,7 @@
 
 > *"Building innovative solutions at the intersection of healthcare and telecommunications"*
 
-I'm a **Full-Stack Developer** and **Master's student** in Software Engineering and Information Systems at the École Supérieure Multinationale des Télécommunications. I specialize in creating cutting-edge web applications for medical and telecom domains, with expertise in 3D visualization, network simulation, and robust software architecture.
+I'm a **Full-Stack Developer** and **Master's student** in Software Engineering and Information Systems at the École Supérieure Polytechnique de Dakar. I specialize in creating cutting-edge web applications for medical and telecom domains, with expertise in 3D visualization, network simulation, and robust software architecture.
 
 ### 🎯 What I Do
 - 🌐 **Web Development**: Full-stack applications with modern frameworks
